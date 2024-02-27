@@ -1,5 +1,6 @@
 # The URL the site will be built for
 base_url = "https://example.com"
+title = "The Ring"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -10,7 +11,7 @@ build_search_index = true
 theme = "adidoks"
 
 taxonomies = [
-  {name = "authors"}, # Basic definition: no feed or pagination
+    { name = "authors" }, # Basic definition: no feed or pagination
 ]
 
 [markdown]

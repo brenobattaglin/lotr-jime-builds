@@ -1,7 +1,6 @@
 +++
 title = "The Ring"
 
-
 # The homepage contents
 [extra]
 lead = '<b>The Ring</b> é o repositório de builds para os grupos de Senhor dos Anéis: Jornadas na Terra Média.'
@@ -27,6 +26,5 @@ weight = 20
 [[extra.list]]
 title = "Builds"
 content = 'Encontre builds e inspirações para o seu herói.'
-
 
 +++
