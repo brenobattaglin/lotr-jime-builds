@@ -6,7 +6,7 @@ title = "The Ring"
 lead = '<b>The Ring</b> é o repositório de builds para os grupos de Senhor dos Anéis: Jornadas na Terra Média.'
 url = "/docs/getting-started/introduction/"
 url_button = "Começar"
-repo_version = "GitHub v0.1.0"
+repo_version = "v0.1.0"
 repo_license = "Open-source MIT License."
 repo_url = "https://github.com/brenobattaglin/lotr-jime-builds"
 
