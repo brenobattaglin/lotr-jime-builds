@@ -31,4 +31,4 @@ jobs:
         env:
           BUILD_DIR: docs
           PAGES_BRANCH: gh-pages
-          GITHUB_TOKEN: ${{ secrets.DEPLOYMENT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
