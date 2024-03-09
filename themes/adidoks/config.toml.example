@@ -54,7 +54,7 @@ email = "aaranxu@outlook.com"
 is_netlify = true
 
 # Set HTML file language
-language_code = "en-US"
+language_code = "pt-BR"
 
 # Set theme-color meta tag for Chrome browser
 theme_color = "#fff"
@@ -110,9 +110,9 @@ url = "/docs/getting-started/introduction/"
 weight = 10
 
 [[extra.menu.main]]
-name = "Blog"
-section = "blog"
-url = "/blog/"
+name = "Heróis"
+section = "heroes"
+url = "/heroes/"
 weight = 20
 
 [[extra.menu.social]]
