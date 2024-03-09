@@ -1,10 +1,10 @@
 +++
-title = "Gandalf"
-description = "Builds para o Gandalf"
+title = "Aragorn"
+description = "Builds para o Aragorn"
 date = 2025-05-01T08:00:00+00:00
 updated = 2021-05-01T08:00:00+00:00
 template = "heroes/section.html"
 sort_by = "weight"
-weight = 3
+weight = 2
 draft = false
 +++
