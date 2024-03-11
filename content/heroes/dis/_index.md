@@ -1,10 +1,10 @@
 +++
-title = "Bilbo"
-description = "Builds para Bilbo"
+title = "Dis"
+description = "Builds para Dis"
 date = 2025-05-01T08:00:00+00:00
 updated = 2021-05-01T08:00:00+00:00
 template = "heroes/section.html"
 sort_by = "weight"
-weight = 6
+weight = 7
 draft = false
 +++
