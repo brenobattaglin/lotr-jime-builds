@@ -6,10 +6,10 @@ updated = 2021-05-01T08:00:00+00:00
 draft = false
 weight = 10
 sort_by = "weight"
-template = "docs/page.html"
+template = "game/page.html"
 
 [extra]
-lead = 'THE RING é o projeto dedicado a auxiliar você, aventureiro da Terra Média. Aqui você encontrará informações sobre os cenários, jogabilidade e aventuras.'
+lead = 'THE RING é o projeto dedicado a auxiliar você, meu caro amigo aventureiro da Terra Média. Aqui você encontrará informações sobre os cenários, jogabilidade e aventuras.'
 toc = true
 top = false
 +++
