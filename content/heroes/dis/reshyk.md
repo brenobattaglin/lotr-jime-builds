@@ -4,7 +4,7 @@ description = "Build para Dis"
 date = 2021-05-01T08:20:00+00:00
 updated = 2021-05-01T08:20:00+00:00
 draft = false
-weight = 7
+weight = 8
 sort_by = "weight"
 template = "heroes/page.html"
 
