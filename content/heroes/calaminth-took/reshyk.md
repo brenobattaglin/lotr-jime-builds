@@ -28,7 +28,7 @@ top = false
 
 ## ⭐️ Função
 
-- Shieldmaiden
+- Escudeira
 
 ## 🎴 Cartas compradas
 

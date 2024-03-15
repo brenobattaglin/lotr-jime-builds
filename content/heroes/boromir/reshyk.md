@@ -16,7 +16,7 @@ top = false
 
 ### 🙋🏻‍♂️ Criador
 
-[@reshyk](https://www.reddit.com/r/JourneysInMiddleEarth/comments/p3whof/a_nonstandard_build_for_every_character/)
+[@reshyk](https://www.reddit.com/r/JourneysInMiddleEarth/comments/srr1qf/a_build_for_every_hero_spreading_war_edition/)
 
 ## ⚔️ Armas
 
