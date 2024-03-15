@@ -1,10 +1,10 @@
 +++
-title = "Gimli"
-description = "Builds para o Gimli"
+title = "Dwalin"
+description = "Builds para Dwalin"
 date = 2025-05-01T08:00:00+00:00
 updated = 2021-05-01T08:00:00+00:00
 template = "heroes/section.html"
 sort_by = "weight"
-weight = 15
+weight = 11
 draft = false
 +++
