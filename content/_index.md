@@ -12,7 +12,7 @@ repo_url = "https://github.com/brenobattaglin/lotr-jime-builds"
 # Menu items
 [[extra.menu.main]]
 name = "O Jogo"
-section = "docs"
+section = "game"
 url = "/game/second-screen/introduction/"
 weight = 10
 
