@@ -6,13 +6,13 @@ title = "THE RING"
 lead = 'Um projeto dedicado aos meus amigos aventureiros da Terra Média.'
 url = "/game/second-screen/introduction/"
 url_button = "Começar"
-repo_version = "v0.1.0"
+repo_version = "v1.2.2"
 repo_url = "https://github.com/brenobattaglin/lotr-jime-builds"
 
 # Menu items
 [[extra.menu.main]]
 name = "O Jogo"
-section = "docs"
+section = "game"
 url = "/game/second-screen/introduction/"
 weight = 10
 

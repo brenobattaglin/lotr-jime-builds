@@ -1,10 +1,10 @@
 +++
-title = "Gimli"
-description = "Builds para o Gimli"
+title = "Calaminth Tûk"
+description = "Builds para Calaminth Tûk"
 date = 2025-05-01T08:00:00+00:00
 updated = 2021-05-01T08:00:00+00:00
 template = "heroes/section.html"
 sort_by = "weight"
-weight = 15
+weight = 9
 draft = false
 +++
