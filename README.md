@@ -1,7 +1,9 @@
 ## the ring
 
+The Ring is a project dedicated to my friends that play LOTR JIME with me, helping us making decisions before or during the gameplay.
+
 <div align="center">
-  <img src="" alt="The Ring" width="200">
+  <img src="https://github.com/brenobattaglin/the-ring/assets/8771994/43ecbe3e-fe75-4a6c-bc1e-ccb015598e2a" alt="The Ring" height="650">
 </div>
 
-The Ring is a personal project dedicated to my friends that play LOTR JIME with me. It is a project helps us make decisions before or during the game.
+
